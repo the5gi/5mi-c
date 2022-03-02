@@ -1,0 +1,11 @@
+C:\Users\Alec\Documents\GitHub\testapp5mi\testapp5mi\bin\Debug\testapp5mi.exe.config
+C:\Users\Alec\Documents\GitHub\testapp5mi\testapp5mi\bin\Debug\testapp5mi.exe
+C:\Users\Alec\Documents\GitHub\testapp5mi\testapp5mi\bin\Debug\testapp5mi.pdb
+C:\Users\Alec\Documents\GitHub\testapp5mi\testapp5mi\obj\Debug\testapp5mi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alec\Documents\GitHub\testapp5mi\testapp5mi\obj\Debug\testapp5mi.Form1.resources
+C:\Users\Alec\Documents\GitHub\testapp5mi\testapp5mi\obj\Debug\testapp5mi.Properties.Resources.resources
+C:\Users\Alec\Documents\GitHub\testapp5mi\testapp5mi\obj\Debug\testapp5mi.csproj.GenerateResource.cache
+C:\Users\Alec\Documents\GitHub\testapp5mi\testapp5mi\obj\Debug\testapp5mi.csproj.CoreCompileInputs.cache
+C:\Users\Alec\Documents\GitHub\testapp5mi\testapp5mi\obj\Debug\testapp5mi.exe
+C:\Users\Alec\Documents\GitHub\testapp5mi\testapp5mi\obj\Debug\testapp5mi.pdb
+C:\Users\Alec\Documents\GitHub\testapp5mi\testapp5mi\obj\Debug\testapp5mi.csproj.AssemblyReference.cache
